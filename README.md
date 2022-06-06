@@ -2,7 +2,7 @@
 A flutter based real time chat application that runs on both android and ios and the database is firebase.
 # ScreenShots
 
-![Simulator Screen Shot - iPhone 13 - 2022-06-06 at 17 04 25](https://user-images.githubusercontent.com/60423130/172161969-246e6b22-a0df-4663-951d-d16f6b467d77.png)
+![Simulator Screen Shot - iPhone 13 - 2022-06-06 at 17 04 25](https://user-images.githubusercontent.com/60423130/172161969-246e6b22-a0df-4663-951d-d16f6b467d77.png | width 200)
 
 ![Simulator Screen Shot - iPhone 13 - 2022-06-06 at 16 59 49](https://user-images.githubusercontent.com/60423130/172161981-314ca3dd-79cc-4664-8f23-72cfe8eb547f.png)
 
@@ -10,7 +10,7 @@ A flutter based real time chat application that runs on both android and ios and
 
 ![Simulator Screen Shot - iPhone 13 - 2022-06-06 at 17 04 02](https://user-images.githubusercontent.com/60423130/172161988-f906fadc-9b46-40bd-8634-5a6df1a9eb40.png)
 
-![Simulator Screen Shot - iPhone 13 - 2022-06-06 at 17 00 04](https://user-images.githubusercontent.com/60423130/172161990-1f1b3eb9-c634-4002-a220-27d43904fde0.png)
+![Simulator Screen Shot - iPhone 13 - 2022-06-06 at 17 00 04](https://user-images.githubusercontent.com/60423130/172161990-1f1b3eb9-c634-4002-a220-27d43904fde0.png )
 
 
 A new Flutter project.
